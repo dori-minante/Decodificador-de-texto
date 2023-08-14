@@ -25,7 +25,7 @@ main {
 }
 
 ::placeholder { color: #0A3871; }
-  .text-area: :focus {
+  .text-area :focus {
     outline:none;
   }
 
